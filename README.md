@@ -1,9 +1,9 @@
 # guess-number.telegram
 
-# Install all dependecies
+## Install all dependecies
 
 npm install;
 
-# Run telegram bot
+## Run telegram bot
 
 npm start;
