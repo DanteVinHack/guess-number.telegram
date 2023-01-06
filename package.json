@@ -1,0 +1,23 @@
+{
+  "name": "telegram-bot-game",
+  "version": "1.0.0",
+  "description": "Cool telegram bot game for all users in telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "node-telegram-bot-api"
+  ],
+  "author": "Dante Rilikt <ventilyatortag@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "config": "^3.3.8",
+    "node-telegram-bot-api": "^0.60.0"
+  }
+}
