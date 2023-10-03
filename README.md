@@ -2,7 +2,7 @@
 
 ## Install all dependecies
 
-npm install;
+npm install; npm ci;
 
 ## Run telegram bot
 
